@@ -198,9 +198,9 @@ https://yostar-serverinfo.bluearchiveyostar.com → http://127.0.0.1:5000
 
 ---
 
-## ⌨️ GM工具
+# 🛠️ GM工具 - BlueArchiveGM
 
-1. 下载GM [BlueArchiveGM](https://github.com/AzureXuanVerse/BlueArchiveGM/releases/download/v1.0.6/BlueArchiveGM.exe)
+[![GET_IT](https://img.shields.io/badge/🎮_前往下载!-FF5555?style=for-the-badge&logoColor=white&labelColor=222)](https://github.com/AzureXuanVerse/BlueArchiveGM/releases)
 
 ---
 ## 🤝 参与贡献
