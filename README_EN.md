@@ -195,7 +195,7 @@ You can view the following docs
 ---
 
 ## ⌨️ GM Tool
-Download GM [BlueArchiveGM](https://github.com/AzureXuanVerse/BlueArchiveGM/releases/download/v1.0.6/BlueArchiveGM.exe)
+[![GET_IT](https://img.shields.io/badge/🎮_GET_IT!-FF5555?style=for-the-badge&logoColor=white&labelColor=222)](https://github.com/AzureXuanVerse/BlueArchiveGM/releases)
 
 Default connection address: `http://127.0.0.1:5000` 
 Default key: `123456` (can be changed in config.json)
