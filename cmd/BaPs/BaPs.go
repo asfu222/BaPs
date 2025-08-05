@@ -23,7 +23,7 @@ func main() {
 		if err := recover(); err != nil {
 			log.Println("\n程序异常退出,原因:")
 			log.Println(err)
-			exit()
+			exit() //退出程序
 		}
 	}()
 	BaPs.NewBaPs()
